@@ -2,7 +2,7 @@
 
 ![Fozle Rabbi Rana](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=👋+Welcome+to+Fozle+Rabbi+Rana's+Profile)
 
-## 🚀 Full-Stack Architect | 🤖 AI Engineer | 🔐 Security Innovator | 💡 Tech Leader
+## 🚀 Full-Stack Architect | 🤖 AI Engineer | 🔐 Security Innovator | 💡 Tech Leader | 💰 SaaS Developer
 
 </div>
 
@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/fozlerabbirana)](https://linkedin.com/in/fozlerabbirana)
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/fozlerabbirana)](https://twitter.com/fozlerabbirana)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:info.rana012@gmail.com)](mailto:info.rana012@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/880197666482)](https://wa.me/880197666482)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white&link=https://webloop.space)](https://webloop.space)
 
 **📍 Dhaka, Bangladesh** | **💼 Experienced Developer & Tech Innovator**
@@ -288,16 +289,18 @@ I'm a passionate **Full-Stack Architect** and **AI Engineer** dedicated to build
 <div align="center">
 
 ### 🎯 Contribution Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fozlerabbirana&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&card_width=500)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fozlerabbirana&theme=nord&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
 
 ### 💻 Top Programming Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fozlerabbirana&theme=tokyonight&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fozlerabbirana&theme=nord&hide_border=true&layout=compact)
 
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=fozlerabbirana&theme=tokyonight&hide_border=true&background=0D1117&fire=00D9FF)](https://git.io/streak-stats)
+### 🔥 GitHub Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fozlerabbirana&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 ### 📈 Contribution Activity Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fozlerabbirana&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=00D9FF&point=58A6FF&area=true&hide_date=false)
+<a href="https://github.com/fozlerabbirana">
+  <img alt="Fozle Rabbi Rana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fozlerabbirana&theme=nord&hide_border=true" />
+</a>
 
 ### 📌 Repository Statistics
 <div align="center">
@@ -535,6 +538,7 @@ I'm actively seeking opportunities to collaborate on:
 [![📧 Send Email](https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logoColor=white)](mailto:info.rana012@gmail.com)
 [![💼 LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/fozlerabbirana)
 [![🐦 Twitter/X](https://img.shields.io/badge/🐦%20Twitter-1DA1F2?style=for-the-badge&logoColor=white)](https://twitter.com/fozlerabbirana)
+[![📱 WhatsApp](https://img.shields.io/badge/📱%20WhatsApp-25D366?style=for-the-badge&logoColor=white)](https://wa.me/880197666482)
 [![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://webloop.space)
 
 </div>
@@ -672,42 +676,81 @@ If you've benefited from my work, connect with me about:
 
 ---
 
-## 🎬 View My Work - Featured Projects Gallery
+## 🎬 All My Projects - Featured Work Gallery
 
 <div align="center">
 
-### 📂 Complete Project Portfolio
+### 📂 Complete Project Showcase
 
-All my projects are available on GitHub with full source code, documentation, and implementation examples.
-
-[![👉 View All My Projects](https://img.shields.io/badge/👉%20View%20All%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fozlerabbirana?tab=repositories)
-
-### 📊 Repository Overview
-
-<div align="center">
-
-| Project Type | Count | Status |
-|:-------------|:-----:|:------:|
-| **WordPress Plugins** | 4+ | 🟢 Active |
-| **Chrome Extensions** | 1+ | 🟢 Active |
-| **AI/Automation Tools** | 2+ | 🟢 Active |
-| **Learning Resources** | Multiple | 🟢 Growing |
-| **Custom Solutions** | Available | 🟢 On Request |
+Here are all my actively maintained projects. Click on any project below to explore the code, documentation, and implementation details.
 
 </div>
 
-### 🚀 Dynamic Projects (Auto-Updated)
+---
 
-New projects are automatically added to my GitHub profile. Check my repositories for the latest work!
+### 🔐 Security & Protection Projects
+
+#### 1️⃣ **wp-securesite-toolkit-plugin** - WordPress Security Suite
+- **GitHub:** [fozlerabbirana/wp-securesite-toolkit-plugin](https://github.com/fozlerabbirana/wp-securesite-toolkit-plugin)
+- **Type:** WordPress Plugin | **Language:** PHP
+- **Features:** Login protection, brute-force defense, threat detection
+
+#### 2️⃣ **wp-page-password-protector** - Content Protection System  
+- **GitHub:** [fozlerabbirana/Wp-page-password-protector.php](https://github.com/fozlerabbirana/Wp-page-password-protector.php)
+- **Type:** WordPress Plugin | **Language:** PHP
+- **Features:** Page-level encryption, access control, permission management
 
 ---
 
-**Note:** *All projects include:*
-- 📝 Full documentation & README
-- 🔐 Security best practices
-- ✅ Tested & production-ready
+### ⚡ Performance & Optimization Projects
+
+#### 3️⃣ **SpeedClean-Toolkit** - Performance Optimizer
+- **GitHub:** [fozlerabbirana/SpeedClean-Toolkit](https://github.com/fozlerabbirana/SpeedClean-Toolkit-)
+- **Type:** WordPress Plugin | **Language:** PHP
+- **Features:** Database cleanup, image optimization, caching, speed boost
+
+#### 4️⃣ **Email-Login-Notifier** - Security Monitoring
+- **GitHub:** [fozlerabbirana/Email-Login-Notifier](https://github.com/fozlerabbirana/Email-Login-Notifier)
+- **Type:** WordPress Plugin | **Language:** PHP
+- **Features:** Device detection, IP monitoring, login alerts, threat tracking
+
+---
+
+### 🤖 AI & Automation Projects
+
+#### 5️⃣ **Web-Data-Google-Sheets-Automation** - Data Automation Tool
+- **GitHub:** [fozlerabbirana/Web-data-save-in-Google-Sheet-automation](https://github.com/fozlerabbirana/Web-data-save-in-Google-Sheet-automation-)
+- **Type:** Automation Tool | **Language:** JavaScript
+- **Features:** Form automation, real-time sync, Google Sheets integration
+
+#### 6️⃣ **Create-AI-Tools-for-WordPress** - AI Development Framework
+- **GitHub:** [fozlerabbirana/Create-any-type-of-AI-tools](https://github.com/fozlerabbirana/Create-any-type-of-AI-tools-)
+- **Type:** Educational Framework | **Language:** JavaScript
+- **Features:** LLM integration, prompt engineering, AI tool creation guide
+
+---
+
+### 🛠️ Developer Tools Projects
+
+#### 7️⃣ **Full-Page-Screenshot-Chrome-Extension** - Screenshot Tool
+- **GitHub:** [fozlerabbirana/Full-Page-Screenshot-chrome-extensions](https://github.com/fozlerabbirana/Full-Page-Screenshot-chrome-extensions)
+- **Type:** Chrome Extension | **Language:** JavaScript
+- **Features:** Full-page capture, multi-format export, batch processing
+
+---
+
+### 🚀 View Complete Repository
+
+<div align="center">
+
+[![👉 View All Repositories on GitHub](https://img.shields.io/badge/👉%20View%20All%20Repositories%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fozlerabbirana?tab=repositories)
+
+**All projects include:**
+- 📝 Full documentation & detailed README
+- 🔐 Production-ready code
+- ✅ Security best practices
 - 📚 Code examples & tutorials
-- 💬 Active support & maintenance
+- 💬 Active maintenance & support
 
 </div>
 
